@@ -1,6 +1,6 @@
 List of cats:
-1-Julia
-2-Chepis
-3-Cuco
+1-Julia (female)
+2-Chepis (female)
+3-Cuco (male)
 
 More to come
